@@ -1,3 +1,3 @@
 Kazda issue vytvori priecinok v ktorom bude prazdny subor s menom zo zoznamu :)
 
-Virus is dead
+Virus is dead (or not?)
