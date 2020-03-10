@@ -1,1 +1,4 @@
 Kazda issue vytvori priecinok v ktorom bude prazdny subor s menom zo zoznamu :)
+
+
+zviera robi zmenu.
