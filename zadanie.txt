@@ -1,6 +1,0 @@
-
-Kazda issue vytvori subor v ktorom bude plny subor s menom zo zoznamu :)
-
-Virus is dead (or not?)
-zviera robi zmenu.
-

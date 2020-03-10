@@ -1,3 +1,0 @@
-Nove hracky: auto
-Stare hracky: babika
-Vyradene hracky: plysak
